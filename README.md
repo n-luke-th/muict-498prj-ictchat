@@ -28,7 +28,7 @@ Chatbot application for MUICT, a project for ITCS498 Special Topic in Computer S
 
 | NAME | ID | GITHUB | CONTACT | RESPONSIBILITY |
 |------|----|--------|---------|----------------|
-| Kittipich Aiumbhornsin | 6488004 | <https://github.com/ngzh-luke> | <kittipich.aiu@student.mahidol.ac.th> or <contact@lukecreated.com> | Backend/Frontend, deployment and documentation |
+| Kittipich Aiumbhornsin | 6488004 | <https://github.com/n-luke-th> | <kittipich.aiu@student.mahidol.ac.th> or <contact@lukecreated.com> | Backend/Frontend, deployment and documentation |
 | Tawan Chaidee | 6488011 | <https://github.com/tawan-chaidee> | <tawan.jhaidee@gmail.com>| Model training, Inference, evaluation and data pre-processsing |
 | Linfeng Zhang | 6488168 | <https://github.com/Lr1zz>| | Data collecting |
 
@@ -312,4 +312,4 @@ This screenshot was taken before we made huge major changes to our models and fr
 
 We are **not affiliated** with any **offers/products/services/sources** listed in this project.
 
-****Last updated by _`Luke/Kan`_ on May 1, 2024 @23.58**
+****Last updated by _`Luke/Kan`_ on July 7, 2025 @13.35**
